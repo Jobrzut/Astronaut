@@ -96,11 +96,11 @@
     color: black;
 }
 
-.menu a:hover {
+.menu .kolorek:hover {
     color: #004464;
 }
 
-.menu li:hover {
+.menu .howerek:hover {
     color: #004464;
     transform: scale(1.1);
 }
